@@ -158,7 +158,7 @@ Body:
       - umbala
       - niflheim
       - louyang
-    TownsPopulation: 200
+    TownsPopulation: 20
     Fields:
       - prt_fild01
       - prt_fild02
@@ -171,7 +171,7 @@ Body:
       - prt_fild09
       - prt_fild10
       - prt_fild11
-    FieldsPopulation: 1000
+    FieldsPopulation: 100
     Dungeons:
       - prt_maze01
       - prt_maze02
@@ -185,7 +185,7 @@ Body:
       - iz_dun02
       - iz_dun03
       - iz_dun04
-    DungeonsPopulation: 1000
+    DungeonsPopulation: 100
 
   - Profile: pve_paladin    # Crusader
     Towns:
@@ -204,7 +204,7 @@ Body:
       - umbala
       - niflheim
       - louyang
-    TownsPopulation: 200
+    TownsPopulation: 20
     Fields:
       - pay_fild01
       - pay_fild02
@@ -217,7 +217,7 @@ Body:
       - pay_fild09
       - pay_fild10
       - pay_fild11
-    FieldsPopulation: 1000
+    FieldsPopulation: 100
     Dungeons:
       - prt_maze01
       - prt_maze02
@@ -231,7 +231,7 @@ Body:
       - iz_dun02
       - iz_dun03
       - iz_dun04
-    DungeonsPopulation: 1000
+    DungeonsPopulation: 100
 
   - Profile: pve_caster     # Wizard, Sage
     Towns:
@@ -250,7 +250,7 @@ Body:
       - umbala
       - niflheim
       - louyang
-    TownsPopulation: 200
+    TownsPopulation: 20
     Fields:
       - gef_fild00
       - gef_fild01
@@ -278,14 +278,14 @@ Body:
       - moc_fild17
       - moc_fild18
       - moc_fild19
-    FieldsPopulation: 1000
+    FieldsPopulation: 100
     Dungeons:
       - gef_dun00
       - gef_dun01
       - gef_dun02
       - gl_prison
       - orcsdun01
-    DungeonsPopulation: 1000
+    DungeonsPopulation: 100
 
   - Profile: pve_archer     # Hunter, Bard, Dancer
     Towns:
